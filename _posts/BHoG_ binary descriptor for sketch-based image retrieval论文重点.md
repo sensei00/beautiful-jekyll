@@ -1,5 +1,8 @@
-#BHoG: binary descriptor for sketch-based image retrieval论文重点
-
+---
+layout: post
+title: BHoG: binary descriptor for sketch-based image retrieval
+subtitle: 整理论文重点
+---
 
 ###1 Hog实现过程
 $HOG$ 特征提取方法就是将一个 $image$（你要检测的目标或者扫描窗口）：
