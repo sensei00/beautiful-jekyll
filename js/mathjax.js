@@ -1,6 +1,6 @@
 (function () {
-  var newMathJax = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js';
-  var oldMathJax = 'cdn.mathjax.org/mathjax/latest/MathJax.js';
+  var newMathJax = 'https://raw.githubusercontent.com/sensei00/sensei00.github.io/master/js/MathJax.js';
+  var oldMathJax = '/js/mathjax.js';
 
   var replaceScript = function (script, src) {
     //
