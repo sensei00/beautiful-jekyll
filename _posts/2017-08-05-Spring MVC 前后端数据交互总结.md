@@ -9,7 +9,7 @@ Spring MVC和前台的交互有两种：
 ![两种交互方式](/img/spring_mvc.png)
 
 
-###使用key/value格式
+### 使用key/value格式
 Spring MVc中的视图解析器负责解析视图。使用时需要在config文件中进行配置。配置内容如下：
 
 	<bean id= "viewResolver" class "org.springframework.web.servlet.view.InternalResourceViewResolver">
