@@ -5,9 +5,7 @@ title: Spring MVC 前后端数据交互总结
 ---
 
 
-
-
-@()Spring MVC)[前端学习]
+@(Spring MVC)[前端学习]
 
 ###和前台的交互
 Spring MVC和前台的交互有两种：
