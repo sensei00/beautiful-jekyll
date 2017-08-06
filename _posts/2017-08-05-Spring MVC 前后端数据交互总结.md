@@ -2,6 +2,7 @@
 ---
 layout: post
 title: Spring MVC 前后端数据交互总结
+tags: [spring mvc]
 ---
 
 ###和前台的交互
