@@ -4,7 +4,7 @@ title: Spring MVC 前后端数据交互总结
 tags: [spring mvc]
 ---
 
-###和前台的交互
+### 和前台的交互
 Spring MVC和前台的交互有两种：
 ![两种交互方式](/img/spring_mvc.png)
 
