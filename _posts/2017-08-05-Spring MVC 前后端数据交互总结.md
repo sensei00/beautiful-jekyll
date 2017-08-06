@@ -1,4 +1,11 @@
-#Spring MVC 前后端数据交互总结
+
+---
+layout: post
+title: Spring MVC 前后端数据交互总结
+---
+
+
+
 
 @()Spring MVC)[前端学习]
 
